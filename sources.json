@@ -1,0 +1,66 @@
+{
+  "retrieved_utc": "2026-10-15T10:42:20.620603+00:00",
+  "owner_repositories_checked": 51,
+  "sources": [
+    {
+      "repository": "brandondube/prysm",
+      "commit": "5008f47803af6ff69eed474fca049456076e4a7d",
+      "commit_date": "2026-07-26T02:06:10Z",
+      "subject": "geometry,segmented: use signed distance functions to draw segment apertures and composite",
+      "pushed_at": "2026-07-26T02:06:40Z",
+      "private": false,
+      "archived": false,
+      "license_url": "https://raw.githubusercontent.com/brandondube/prysm/5008f47803af6ff69eed474fca049456076e4a7d/LICENSE.md",
+      "local_license": "licenses/brandondube-prysm-20261015-LICENSE.txt",
+      "reviewed_code_url": "https://raw.githubusercontent.com/brandondube/prysm/5008f47803af6ff69eed474fca049456076e4a7d/prysm/propagation/fft.py",
+      "review_note": "Fourier image-plane propagation context; original Gaussian analytic transform used in lab."
+    },
+    {
+      "repository": "numpy/numpy",
+      "commit": "0820ec52ac935a2b71afa173abdb123fec7b07a1",
+      "commit_date": "2026-10-15T05:41:26Z",
+      "subject": "DOC: Add guidance on version directive retention (#32892)",
+      "pushed_at": "2026-10-15T05:41:26Z",
+      "private": false,
+      "archived": false,
+      "license_url": "https://raw.githubusercontent.com/numpy/numpy/0820ec52ac935a2b71afa173abdb123fec7b07a1/LICENSE.txt",
+      "local_license": "licenses/numpy-numpy-20261015-LICENSE.txt"
+    },
+    {
+      "repository": "scipy/scipy",
+      "commit": "19a262b04562aac08b22412fe5c7b7c11ff6085a",
+      "commit_date": "2026-10-14T18:30:28Z",
+      "subject": "MAINT: migrate _sf_error_test_function (#26407)",
+      "pushed_at": "2026-10-14T18:30:29Z",
+      "private": false,
+      "archived": false,
+      "license_url": "https://raw.githubusercontent.com/scipy/scipy/19a262b04562aac08b22412fe5c7b7c11ff6085a/LICENSE.txt",
+      "local_license": "licenses/scipy-scipy-20261015-LICENSE.txt",
+      "reviewed_code_url": "https://raw.githubusercontent.com/scipy/scipy/19a262b04562aac08b22412fe5c7b7c11ff6085a/scipy/stats/_distribution_infrastructure.py",
+      "review_note": "Order statistic distribution and beta transform; lab implements its own rank threshold, not new SciPy API."
+    },
+    {
+      "repository": "matplotlib/matplotlib",
+      "commit": "ba9ebc7d8dbac19b39de7202ec4285fa4ee598c7",
+      "commit_date": "2026-10-15T02:09:03Z",
+      "subject": "Merge pull request #32479 from maaz7409/fix-doc",
+      "pushed_at": "2026-10-15T02:09:03Z",
+      "private": false,
+      "archived": false,
+      "license_url": "https://raw.githubusercontent.com/matplotlib/matplotlib/ba9ebc7d8dbac19b39de7202ec4285fa4ee598c7/LICENSE/LICENSE",
+      "local_license": "licenses/matplotlib-matplotlib-20261015-LICENSE.txt"
+    },
+    {
+      "repository": "ahmetalpkilic/pilot-triggered-optical-calibration-learning-lab",
+      "commit": "e7bf1091a5a95f096664990c624093794c9da21d",
+      "commit_date": "2026-10-14T18:46:17Z",
+      "subject": "Add pilot-triggered optical calibration and fixed-budget delay experiment",
+      "pushed_at": "2026-10-14T18:46:19Z",
+      "private": false,
+      "archived": false,
+      "license_url": "https://raw.githubusercontent.com/ahmetalpkilic/pilot-triggered-optical-calibration-learning-lab/e7bf1091a5a95f096664990c624093794c9da21d/LICENSE",
+      "local_license": "licenses/ahmetalpkilic-pilot-triggered-optical-calibration-learning-lab-20261015-LICENSE.txt"
+    }
+  ],
+  "mathematical_reference": "https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.order_statistic.html"
+}
